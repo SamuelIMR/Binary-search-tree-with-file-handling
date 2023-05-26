@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1665549221 source:c:\users\samme\onedrive\escritorio\ed2\prog02-medina_rodriguez_samuel_israel\main.cpp
+	<iostream>
+	"ABB.h"
+	"Nodo.h"
+	"Persona.h"
+
+1665114029 source:c:\users\samme\onedrive\escritorio\ed2\prog02-medina_rodriguez_samuel_israel\src\nodo.cpp
+	"Nodo.h"
+
+1664922032 c:\users\samme\onedrive\escritorio\ed2\prog02-medina_rodriguez_samuel_israel\include\nodo.h
+	"Persona.h"
+
+1665080331 c:\users\samme\onedrive\escritorio\ed2\prog02-medina_rodriguez_samuel_israel\include\persona.h
+	<iostream>
+
+1665101370 source:c:\users\samme\onedrive\escritorio\ed2\prog02-medina_rodriguez_samuel_israel\src\persona.cpp
+	"Persona.h"
+
+1665510200 c:\users\samme\onedrive\escritorio\ed2\prog02-medina_rodriguez_samuel_israel\include\abb.h
+	"Persona.h"
+	"Nodo.h"
+
+1665549453 source:c:\users\samme\onedrive\escritorio\ed2\prog02-medina_rodriguez_samuel_israel\src\abb.cpp
+	"ABB.h"
+	"Persona.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
